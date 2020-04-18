@@ -5,3 +5,7 @@ Good bye.
 This is not the end.
 
 A line was added.
+
+
+String 1
+String 2
