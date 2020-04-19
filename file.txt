@@ -3,12 +3,4 @@ This is a file.
 Good bye.
 
 This is not the end.
-<<<<<<< HEAD
 
-A line was added.
-
-
-String 1
-String 2
-=======
->>>>>>> parent of 520c1a7... Added a string
